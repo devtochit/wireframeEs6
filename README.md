@@ -48,14 +48,14 @@ Once you completed these steps you should see the site in your browser.
 
 👤 **Elson Otake**
 
-- GitHub: [@elsonotake](https://github.com/elsonotake)
-- Twitter: [@elsonotake](https://twitter.com/elsonotake)
-- LinkedIn: [Elson Otake](https://linkedin.com/in/elson-otake-0b5b9138)
+- GitHub: [@hedevedup](https://github.com/elsonotake)
+- Twitter: [@devtochi](https://twitter.com/elsonotake)
+- LinkedIn: [uzoma jesse](https://linkedin.com/in/elson-otake-0b5b9138)
 
 
 ## 🤝 Contributing
 
-[HeDevedUp](https://github.com/HeDevedUp) Jesse Uzoma
+[elson oteke](https://github.com/elsonotake) elson otake
 
 Contributions, issues, and feature requests are welcome!
 

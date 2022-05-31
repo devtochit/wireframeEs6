@@ -1,7 +1,6 @@
 import { DateTime } from './luxon.js';
 
 const dynamicLoad = (awesome) => {
-
   const body = document.querySelector('body');
   if (document.querySelector('.list')) {
     body.removeChild(document.querySelector('.list'));
@@ -70,7 +69,6 @@ const dynamicLoad = (awesome) => {
     const menuContact = document.querySelector('.menu_contact');
     menuContact.classList.remove('active');
   });
-}
+};
 
-
-export default dynamicLoad 
+export default dynamicLoad;
